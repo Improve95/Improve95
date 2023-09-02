@@ -1,3 +1,0 @@
-- 👋 Hi, I’m Improved
-- 👀 I’m interested in website creating!
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT and more...
