@@ -33,11 +33,11 @@
 </div>
 
 <div id="stats">
-    <h2>📈 Languages Stats</h2>
+    <h2>📈 Langs Stats</h2>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=improve95&size_weight=1&count_weight=0&exclude_repo=ecdTasks,networkNSU,dentalService&hide=CMake,HTML,CSS,Makefile&langs_count=8&layout=compact&theme=radical" alt="Top languages" title="Top languages">
 </div>
 
-<summary><h2><b>📚 My Stack</b></h2></summary>
+<summary><h2><b>🛠 Skills</b></h2></summary>
 <p>
 <h3>Langs</h3>
 <img src="https://skillicons.dev/icons?i=java,cpp,c,postgres&perline=7" />
