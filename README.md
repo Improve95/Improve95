@@ -6,9 +6,6 @@
     <!-- <a target="_blank" style="text-decoration: none;" href="http://papertoilet.com">
         <img src="https://komarev.com/ghpvc/?username=imtove95&style=for-the-badge&color=00AA00" alt="View Count" title="View count (click for something interesting)">
     </a> -->
-    <a target="_blank" style="text-decoration: none;" href="https://vk.com/improve95">
-        <img src="https://img.shields.io/badge/-Vkontakte-1155ba?style=for-the-badge&logo=Vk&logoColor=white" title="VK" alt="VK">
-    </a>
     <a target="_blank" style="text-decoration: none;" href="https://t.me/improve95">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" title="Telegram" alt="Telagram">
     </a>
